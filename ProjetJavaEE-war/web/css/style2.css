@@ -1,0 +1,91 @@
+/* 
+    Document   : style2
+    Created on : 17 mars 2013, 08:50:13
+    Author     : kaba
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#line0 {
+    background-color: #cce8f2;    
+}
+#line1 {
+    background-color: white;    
+}
+table th{
+    background-color: #d5d5d5;
+}
+table{
+    border: solid 1px gray;
+}
+.leftcolumn_box01_bottom a{
+    color: white;
+    cursor: pointer;
+}
+.enregistrer{
+     margin-top: 30px;
+}
+.enregistrer form{
+    margin: 0px 10px 0px 0px;
+    padding: 0px;
+    text-align: left;
+}
+#cci{
+    font-size: 12px
+}
+.enregistrer table{
+    
+    border:  none;
+}
+
+.enregistrer input{
+    width: 170px;
+}
+.erreur{
+    color: red;
+}
+.succes{
+    color: green;
+}
+.info{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#titre{
+  font-weight: bold;
+  margin-right: 3px;
+}
+
+div#evenements{
+    margin-top: 10px;
+    float: left;
+    background-color: #e0e0e0;
+    margin-right: 5px;
+}
+#evenements #titre {
+     background-color: #6ebfdc;
+     color: white;
+}
+#infoPerso, #carrieres{
+    background-color: #E2EBED;
+    width: 300px;
+}
+
+#carriere{
+    background-color: #E2EBED;
+}
+#ajoutCarriere{
+    color: green;
+    font-weight: bold;
+}
+.carriere{
+    background-color: #d5d5d5;
+    margin-top: 3px;
+}
+#maCarriere{
+    margin-top: 5px;
+}
